@@ -6,4 +6,5 @@ A simple spaceship shooter made in Unity
 ![Gameplay3](gameplay3.png)
 
 This game was made only for study and fun
+
 Some sprites was take from https://opengameart.org/
